@@ -1,2 +1,2 @@
-# 2022whatislife.github.io
-Personal site
+# euphoricpentagram.github.io
+Personal site [http://www.euphoricpentagram.github.io]
